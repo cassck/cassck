@@ -8,6 +8,6 @@
 <a href="https://www.instagram.com/erick.pereira56/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=cassck&color=f8efd4" target="_blank"></a>
 
 <p>
-Pai do Dante e esposo da Vydha, atualmente trabalho na area de infraestrutura migrando para a área Dados<br/>
+Pai do Dante e esposo da Vydha, atualmente trabalho na área de infraestrutura migrando para a área Dados<br/>
 </p>
 <hr>
