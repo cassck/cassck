@@ -4,7 +4,7 @@
 
 ### Olá! Me chamo Erick Cassimiro. 
 <img src="https://img.shields.io/static/v1?label=Overview&message=cassck&color=f8efd4&style=for-the-badge&logo=GitHub">
-<a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%FFF?style=for-the-badge&logo=linkedin&logoColor=cassck&color=f8efd4" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%000?style=for-the-badge&logo=linkedin&logoColor=cassck&color=f8efd4" target="_blank"></a>
 <a href="https://www.instagram.com/erick.pereira56/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=cassck&color=f8efd4" target="_blank"></a>
 
 <p>
