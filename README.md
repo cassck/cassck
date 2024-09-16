@@ -8,6 +8,7 @@
 <a href="https://www.instagram.com/erick.pereira56/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=cassck&color=f8efd4" target="_blank"></a>
 
 <p>
-Pai do Dante e da Ellis, esposo da Vydha, atualmente trabalho na área de infraestrutura<br/>
+Pai do Dante e da Ellis, esposo da Vydha, atualmente trabalho na área de infraestrutura,
+  Co-Funder do Boka Roxa Açaiteria, responsável por toda a área de TI da empresa.<br/>
 </p>
 <hr>
