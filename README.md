@@ -1,4 +1,4 @@
-## Student Engineer Software 6/8.
+## Student Engineer Software 7/8.
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=cassck&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
@@ -8,7 +8,6 @@
 <a href="https://www.instagram.com/erick.pereira56/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=cassck&color=f8efd4" target="_blank"></a>
 
 <p>
-Pai do Dante e da Ellis, esposo da Vydha, atualmente trabalho na área de infraestrutura,
-  Co-Funder do Boka Roxa Açaiteria, responsável por toda a área de TI da empresa.<br/>
+Pai do Dante e da Ellis, esposo da Vydha, atualmente trabalho na área de infraestrutura.<br/>
 </p>
 <hr>
